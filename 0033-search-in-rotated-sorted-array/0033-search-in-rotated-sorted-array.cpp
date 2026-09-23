@@ -7,7 +7,7 @@ public:
         int mid = (l+r)/2;
 
         while(l<=r){
-            cout<<l<<" "<<mid<<" "<<r<<"\n";
+            // cout<<l<<" "<<mid<<" "<<r<<"\n";
             if(nums[mid] == target) return mid;
             else if(nums[l] <= nums[mid]){
                 if(target < nums[mid] && target >= nums[l]){
