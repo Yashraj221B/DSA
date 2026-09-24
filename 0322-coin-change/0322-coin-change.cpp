@@ -8,9 +8,9 @@ public:
                 if(c <= i) tot[i] = min(tot[i], tot[i-c]+1);
             }
         }
-        for(int w: tot){
-            cout<<w<<" ";
-        }
+        // for(int w: tot){
+        //     cout<<w<<" ";
+        // }
         return tot[amount] == amount+1?-1:tot[amount];
     }
 };
