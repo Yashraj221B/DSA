@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yashraj221B/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Yashraj221B/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Yashraj221B/DSA/tree/master/0238-product-of-array-except-self) |
+| [0322-coin-change](https://github.com/Yashraj221B/DSA/tree/master/0322-coin-change) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yashraj221B/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1833-maximum-ice-cream-bars](https://github.com/Yashraj221B/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yashraj221B/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Yashraj221B/DSA/tree/master/0053-maximum-subarray) |
+| [0322-coin-change](https://github.com/Yashraj221B/DSA/tree/master/0322-coin-change) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,4 +77,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yashraj221B/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Yashraj221B/DSA/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Yashraj221B/DSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Yashraj221B/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
