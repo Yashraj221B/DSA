@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yashraj221B/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Yashraj221B/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Yashraj221B/DSA/tree/master/0238-product-of-array-except-self) |
+| [1833-maximum-ice-cream-bars](https://github.com/Yashraj221B/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yashraj221B/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Yashraj221B/DSA/tree/master/0217-contains-duplicate) |
+| [1833-maximum-ice-cream-bars](https://github.com/Yashraj221B/DSA/tree/master/1833-maximum-ice-cream-bars) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -48,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Yashraj221B/DSA/tree/master/0371-sum-of-two-integers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yashraj221B/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+## Greedy
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Yashraj221B/DSA/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Yashraj221B/DSA/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
