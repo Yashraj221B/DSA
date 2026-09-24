@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Yashraj221B/DSA/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Yashraj221B/DSA/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Yashraj221B/DSA/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yashraj221B/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Breadth-First Search
 |  |
@@ -89,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Yashraj221B/DSA/tree/master/0322-coin-change) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Yashraj221B/DSA/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Yashraj221B/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
