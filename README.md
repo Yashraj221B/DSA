@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Yashraj221B/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Yashraj221B/DSA/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Yashraj221B/DSA/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yashraj221B/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Breadth-First Search
 |  |
@@ -97,8 +98,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Yashraj221B/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Yashraj221B/DSA/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Yashraj221B/DSA/tree/master/0143-reorder-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Yashraj221B/DSA/tree/master/0141-linked-list-cycle) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Yashraj221B/DSA/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Yashraj221B/DSA/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
