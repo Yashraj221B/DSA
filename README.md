@@ -125,4 +125,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Yashraj221B/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Yashraj221B/DSA/tree/master/3498-reverse-degree-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Yashraj221B/DSA/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
