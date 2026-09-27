@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Yashraj221B/DSA/tree/master/0053-maximum-subarray) |
 | [0322-coin-change](https://github.com/Yashraj221B/DSA/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/Yashraj221B/DSA/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/Yashraj221B/DSA/tree/master/0788-rotated-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Yashraj221B/DSA/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/Yashraj221B/DSA/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/Yashraj221B/DSA/tree/master/0788-rotated-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yashraj221B/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Yashraj221B/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Yashraj221B/DSA/tree/master/3871-count-commas-in-range-ii) |
