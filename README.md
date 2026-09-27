@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Yashraj221B/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Yashraj221B/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/Yashraj221B/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Yashraj221B/DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2951-find-the-peaks](https://github.com/Yashraj221B/DSA/tree/master/2951-find-the-peaks) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yashraj221B/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Yashraj221B/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Yashraj221B/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Yashraj221B/DSA/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/Yashraj221B/DSA/tree/master/0371-sum-of-two-integers) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Yashraj221B/DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Math
 |  |
 | ------- |
