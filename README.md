@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Yashraj221B/DSA/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/Yashraj221B/DSA/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Yashraj221B/DSA/tree/master/0788-rotated-digits) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Yashraj221B/DSA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yashraj221B/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Yashraj221B/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Yashraj221B/DSA/tree/master/3871-count-commas-in-range-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Yashraj221B/DSA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3498-reverse-degree-of-a-string](https://github.com/Yashraj221B/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Bracket Sequences
 |  |
