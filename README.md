@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Yashraj221B/DSA/tree/master/0396-rotate-function) |
 | [0746-min-cost-climbing-stairs](https://github.com/Yashraj221B/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/Yashraj221B/DSA/tree/master/0788-rotated-digits) |
+| [1025-divisor-game](https://github.com/Yashraj221B/DSA/tree/master/1025-divisor-game) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yashraj221B/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Binary Search
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Yashraj221B/DSA/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/Yashraj221B/DSA/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Yashraj221B/DSA/tree/master/0788-rotated-digits) |
+| [1025-divisor-game](https://github.com/Yashraj221B/DSA/tree/master/1025-divisor-game) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Yashraj221B/DSA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yashraj221B/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Yashraj221B/DSA/tree/master/3870-count-commas-in-range) |
@@ -188,4 +190,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Yashraj221B/DSA/tree/master/0098-validate-binary-search-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Yashraj221B/DSA/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Yashraj221B/DSA/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Yashraj221B/DSA/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
