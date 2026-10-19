@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yashraj221B/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0396-rotate-function](https://github.com/Yashraj221B/DSA/tree/master/0396-rotate-function) |
 | [0746-min-cost-climbing-stairs](https://github.com/Yashraj221B/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [0922-sort-array-by-parity-ii](https://github.com/Yashraj221B/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Yashraj221B/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/Yashraj221B/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Yashraj221B/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Yashraj221B/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Yashraj221B/DSA/tree/master/0229-majority-element-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yashraj221B/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0922-sort-array-by-parity-ii](https://github.com/Yashraj221B/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Yashraj221B/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Yashraj221B/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Yashraj221B/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Yashraj221B/DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Yashraj221B/DSA/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yashraj221B/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0922-sort-array-by-parity-ii](https://github.com/Yashraj221B/DSA/tree/master/0922-sort-array-by-parity-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
