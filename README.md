@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Yashraj221B/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Yashraj221B/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/Yashraj221B/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Yashraj221B/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yashraj221B/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Yashraj221B/DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Yashraj221B/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Yashraj221B/DSA/tree/master/0229-majority-element-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yashraj221B/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1833-maximum-ice-cream-bars](https://github.com/Yashraj221B/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Yashraj221B/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Yashraj221B/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Prefix Sum
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Yashraj221B/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yashraj221B/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yashraj221B/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Yashraj221B/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
