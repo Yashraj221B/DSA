@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Yashraj221B/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Yashraj221B/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Yashraj221B/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Yashraj221B/DSA/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/Yashraj221B/DSA/tree/master/0068-text-justification) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Yashraj221B/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Yashraj221B/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Yashraj221B/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Yashraj221B/DSA/tree/master/0053-maximum-subarray) |
 | [0322-coin-change](https://github.com/Yashraj221B/DSA/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/Yashraj221B/DSA/tree/master/0396-rotate-function) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Yashraj221B/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Yashraj221B/DSA/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/Yashraj221B/DSA/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Yashraj221B/DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Yashraj221B/DSA/tree/master/0143-reorder-list) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yashraj221B/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Yashraj221B/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Yashraj221B/DSA/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Yashraj221B/DSA/tree/master/0143-reorder-list) |
 | [0678-valid-parenthesis-string](https://github.com/Yashraj221B/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Yashraj221B/DSA/tree/master/0856-score-of-parentheses) |
@@ -285,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Yashraj221B/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Yashraj221B/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
