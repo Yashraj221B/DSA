@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Yashraj221B/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/Yashraj221B/DSA/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yashraj221B/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/Yashraj221B/DSA/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Yashraj221B/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Yashraj221B/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Yashraj221B/DSA/tree/master/0238-product-of-array-except-self) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Yashraj221B/DSA/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yashraj221B/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yashraj221B/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Two Pointers
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Yashraj221B/DSA/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/Yashraj221B/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Yashraj221B/DSA/tree/master/0322-coin-change) |
 ## Knapsack Problem
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Yashraj221B/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/Yashraj221B/DSA/tree/master/0200-number-of-islands) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -301,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Yashraj221B/DSA/tree/master/0042-trapping-rain-water) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Yashraj221B/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
