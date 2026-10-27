@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Yashraj221B/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Yashraj221B/DSA/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/Yashraj221B/DSA/tree/master/0068-text-justification) |
+| [0130-surrounded-regions](https://github.com/Yashraj221B/DSA/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yashraj221B/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Yashraj221B/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/Yashraj221B/DSA/tree/master/0164-maximum-gap) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Yashraj221B/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Yashraj221B/DSA/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yashraj221B/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0695-max-area-of-island](https://github.com/Yashraj221B/DSA/tree/master/0695-max-area-of-island) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Yashraj221B/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Yashraj221B/DSA/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/Yashraj221B/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Yashraj221B/DSA/tree/master/0322-coin-change) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Yashraj221B/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0130-surrounded-regions](https://github.com/Yashraj221B/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Yashraj221B/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Yashraj221B/DSA/tree/master/0695-max-area-of-island) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yashraj221B/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Yashraj221B/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Yashraj221B/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Yashraj221B/DSA/tree/master/0695-max-area-of-island) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yashraj221B/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
