@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Yashraj221B/DSA/tree/master/0695-max-area-of-island) |
 | [0746-min-cost-climbing-stairs](https://github.com/Yashraj221B/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0922-sort-array-by-parity-ii](https://github.com/Yashraj221B/DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Yashraj221B/DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0994-rotting-oranges](https://github.com/Yashraj221B/DSA/tree/master/0994-rotting-oranges) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Yashraj221B/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/Yashraj221B/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Yashraj221B/DSA/tree/master/0229-majority-element-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yashraj221B/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0922-sort-array-by-parity-ii](https://github.com/Yashraj221B/DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Yashraj221B/DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1331-rank-transform-of-an-array](https://github.com/Yashraj221B/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Yashraj221B/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Yashraj221B/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -128,12 +130,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Yashraj221B/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Yashraj221B/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Yashraj221B/DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Yashraj221B/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/Yashraj221B/DSA/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Yashraj221B/DSA/tree/master/0229-majority-element-ii) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Yashraj221B/DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/Yashraj221B/DSA/tree/master/1833-maximum-ice-cream-bars) |
 ## Heap (Priority Queue)
 |  |
