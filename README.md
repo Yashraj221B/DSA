@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Yashraj221B/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Yashraj221B/DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0994-rotting-oranges](https://github.com/Yashraj221B/DSA/tree/master/0994-rotting-oranges) |
+| [1267-count-servers-that-communicate](https://github.com/Yashraj221B/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Yashraj221B/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/Yashraj221B/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Yashraj221B/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Yashraj221B/DSA/tree/master/0229-majority-element-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Yashraj221B/DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1267-count-servers-that-communicate](https://github.com/Yashraj221B/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1833-maximum-ice-cream-bars](https://github.com/Yashraj221B/DSA/tree/master/1833-maximum-ice-cream-bars) |
 ## Heap (Priority Queue)
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Yashraj221B/DSA/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/Yashraj221B/DSA/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Yashraj221B/DSA/tree/master/0994-rotting-oranges) |
+| [1267-count-servers-that-communicate](https://github.com/Yashraj221B/DSA/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yashraj221B/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yashraj221B/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Yashraj221B/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Yashraj221B/DSA/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/Yashraj221B/DSA/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Yashraj221B/DSA/tree/master/0994-rotting-oranges) |
+| [1267-count-servers-that-communicate](https://github.com/Yashraj221B/DSA/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yashraj221B/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Knapsack Problem
 |  |
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Yashraj221B/DSA/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Yashraj221B/DSA/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/Yashraj221B/DSA/tree/master/0695-max-area-of-island) |
+| [1267-count-servers-that-communicate](https://github.com/Yashraj221B/DSA/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yashraj221B/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
@@ -361,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Yashraj221B/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Yashraj221B/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Yashraj221B/DSA/tree/master/0695-max-area-of-island) |
+| [1267-count-servers-that-communicate](https://github.com/Yashraj221B/DSA/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Yashraj221B/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Combinatorics
 |  |
