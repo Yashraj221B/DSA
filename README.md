@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Yashraj221B/DSA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2409-count-days-spent-together](https://github.com/Yashraj221B/DSA/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Yashraj221B/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Yashraj221B/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/Yashraj221B/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Yashraj221B/DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Yashraj221B/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Yashraj221B/DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Yashraj221B/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/Yashraj221B/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Yashraj221B/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Counting Sort
 |  |
 | ------- |
