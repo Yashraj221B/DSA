@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Yashraj221B/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/Yashraj221B/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1882-process-tasks-using-servers](https://github.com/Yashraj221B/DSA/tree/master/1882-process-tasks-using-servers) |
+| [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Yashraj221B/DSA/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Yashraj221B/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yashraj221B/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2747-count-zero-request-servers](https://github.com/Yashraj221B/DSA/tree/master/2747-count-zero-request-servers) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Yashraj221B/DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Yashraj221B/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/Yashraj221B/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Yashraj221B/DSA/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Yashraj221B/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Counting Sort
 |  |
