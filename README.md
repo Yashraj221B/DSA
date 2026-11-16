@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Yashraj221B/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yashraj221B/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Yashraj221B/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Yashraj221B/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Yashraj221B/DSA/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/Yashraj221B/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0068-text-justification](https://github.com/Yashraj221B/DSA/tree/master/0068-text-justification) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Yashraj221B/DSA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Yashraj221B/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Yashraj221B/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Bracket Sequences
 |  |
