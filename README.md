@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Yashraj221B/DSA/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Yashraj221B/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Yashraj221B/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Yashraj221B/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Yashraj221B/DSA/tree/master/2747-count-zero-request-servers) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Yashraj221B/DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Yashraj221B/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Yashraj221B/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1833-maximum-ice-cream-bars](https://github.com/Yashraj221B/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Yashraj221B/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Yashraj221B/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Yashraj221B/DSA/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Yashraj221B/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Prefix Sum
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Yashraj221B/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/Yashraj221B/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Yashraj221B/DSA/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Yashraj221B/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Yashraj221B/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Counting Sort
 |  |
